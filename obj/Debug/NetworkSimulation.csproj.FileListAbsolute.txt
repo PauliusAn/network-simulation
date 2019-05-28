@@ -1,0 +1,7 @@
+C:\Users\Paulius\source\repos\NetworkSimulation\bin\Debug\NetworkSimulation.exe.config
+C:\Users\Paulius\source\repos\NetworkSimulation\bin\Debug\NetworkSimulation.exe
+C:\Users\Paulius\source\repos\NetworkSimulation\bin\Debug\NetworkSimulation.pdb
+C:\Users\Paulius\source\repos\NetworkSimulation\obj\Debug\NetworkSimulation.csprojAssemblyReference.cache
+C:\Users\Paulius\source\repos\NetworkSimulation\obj\Debug\NetworkSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Paulius\source\repos\NetworkSimulation\obj\Debug\NetworkSimulation.exe
+C:\Users\Paulius\source\repos\NetworkSimulation\obj\Debug\NetworkSimulation.pdb
